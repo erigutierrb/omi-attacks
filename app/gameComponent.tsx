@@ -72,6 +72,7 @@ export default function Home() {
                         p.fill(255, 0, 0);
                         p.textSize(32);
                         p.text("¡Perdisteeeeeeeeee!, muajajaja", 20, 250);
+                        p.text("Mis puntitos finales: " + points, 100, 300);
                         p.noLoop();
                         return;
                     }
